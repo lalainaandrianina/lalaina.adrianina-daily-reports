@@ -1,5 +1,5 @@
 # lalaina.adrianina-daily-reports
-##This repository contains my daily reports for the PyproSCiDas course Day 00 and Day 01
+## This repository contains my daily reports for the PyproSCiDas course Day 00 and Day 01
 ## We did an introduction of Jupyter Notebook today
 ## We learned that python jupyter notebook is :
 * An interactive environement for writing and running code
