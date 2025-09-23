@@ -10,8 +10,8 @@
   - Markdown
   - Heading
   - Row
-  I also know how to plot an histogram
-To assign a Variable and took thir type.
-To upload a picture
-to import a Video from youtube
-To make addition , substraction, multiplication
+ ## I also know how to plot an histogram
+##To assign a Variable and took thir type.
+##To upload a picture
+##to import a Video from youtube
+##To make addition , substraction, multiplication
